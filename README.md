@@ -5,4 +5,4 @@
 **Notebook:** `zero_shot_analysis.ipynb`
 
 **Q2.** Given that simpler multilingual models remain competitive for classification, how do we pick the best pretrained model?  
-**Notebook:** `embedding_similarity_testing.ipynb` implements a tookkit to evaluate embedding quality for downstream classification.
+**Notebook:** `Embedding_Similarity_Testing.ipynb` implements a tookkit to evaluate embedding quality for downstream classification.
