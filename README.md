@@ -1,2 +1,8 @@
 # Language-Agnostic-Transformers-Analysis
-This research project in collaboration with Oliver Wyman is currently being actively worked upon. A detailed README will be added after completion of the research.
+
+
+**Q1.** For a downstream task like text classification, is it better to use a monolingual model trained on a single language or a multilingual model exposed to dozens of languages?  
+**Notebook:** `zero_shot_analysis.ipynb`
+
+**Q2.** Given that simpler multilingual models remain competitive for classification, how do we pick the best pretrained model?  
+**Notebook:** `embedding_similarity_testing.ipynb` implements a tookkit to evaluate embedding quality for downstream classification.
